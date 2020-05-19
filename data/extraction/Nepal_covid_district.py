@@ -1,3 +1,7 @@
+"""
+Scraping code Reff: https://www.kaggle.com/milan400/nepal-coronavirus-real-time-data-analysis. You can also check his Analysis which is pretty cool :)
+"""
+
 import os
 import pandas as pd
 import requests
