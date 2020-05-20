@@ -9,5 +9,14 @@ Data Folder contains the data extraction code and the .csv files.
  <b>PS:</b> Made a simple Analysis of the data. Hoping to learn more and do some awesome Analysis ^^
  
  # ANALYSIS
+![CRD plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/CRD.png)
 ![CRD Pie plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/CRD_count_pie.png)
+![CRD monthly plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/CRD_monthwise.png)
 
+<br>
+## Distric wise plot
+<br>
+![districtWisePlot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/CRD_districtwise.png)
+![district death plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/Deaths.png)
+![district recovered plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/10_recoveredDistrict.png)
+![district affected plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/10_affectedDistrict.png)
