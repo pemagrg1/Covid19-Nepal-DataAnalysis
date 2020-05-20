@@ -15,6 +15,6 @@ Data Folder contains the data extraction code and the .csv files.
 ## Distric wise plot
 ![districtWisePlot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/CRD_districtwise.png)
 <br>
-![district death plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/Deaths.png)<br>
-![district recovered plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/10_recoveredDistrict.png)<br>
-![district affected plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/10_affectedDistrict.png)<br>
+![district death plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/Deaths_districtwise.png)<br>
+![district recovered plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/Recovered_districtwise.png)<br>
+![district affected plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/Confirmed_districtwise.png)<br>
