@@ -8,3 +8,6 @@ Data Folder contains the data extraction code and the .csv files.
 <br><br>
  <b>PS:</b> Made a simple Analysis of the data. Hoping to learn more and do some awesome Analysis ^^
  
+ # ANALYSIS
+![CRD Pie plot](https://github.com/pemagrg1/Covid19-Nepal-DataAnalysis/blob/master/plots/CRD_count_pie.png)
+
