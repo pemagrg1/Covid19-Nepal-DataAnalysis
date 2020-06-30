@@ -1,5 +1,5 @@
 # Covid19-Nepal-DataAnalysis
-Analyzing Nepal's Covid19 data. Recently especially this month(May), the number of Covid Patients were increasing drastically. So thought why not do some analysis? 
+Analyzing Nepal's Covid19 data. Recently especially May month(If you want the latest data, run ```data/extraction/Nepal_covid_date.py```), the number of Covid Patients were increasing drastically. So thought why not do some analysis? 
 <br><br><br>
 Data Folder contains the data extraction code and the .csv files.
 <br> Scraped data from:
